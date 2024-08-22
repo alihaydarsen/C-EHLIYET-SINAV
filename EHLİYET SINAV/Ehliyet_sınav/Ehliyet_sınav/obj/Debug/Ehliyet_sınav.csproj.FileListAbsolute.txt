@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\bin\Debug\Ehliyet_sınav.exe.config
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\bin\Debug\Ehliyet_sınav.exe
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\bin\Debug\Ehliyet_sınav.pdb
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.Form1.resources
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.Properties.Resources.resources
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.exe
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.pdb
+C:\Users\Acer\Desktop\EHLİYET SINAV\Ehliyet_sınav\Ehliyet_sınav\obj\Debug\Ehliyet_sınav.SONUÇLAR.resources
